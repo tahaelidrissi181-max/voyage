@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://horizontrails.ma/sitemap.xml
